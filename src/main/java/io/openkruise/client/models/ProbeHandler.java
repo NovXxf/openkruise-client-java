@@ -5,9 +5,8 @@ import io.kubernetes.client.openapi.models.V1HTTPGetAction;
 import io.kubernetes.client.openapi.models.V1TCPSocketAction;
 
 /**
+ * ProbeHandler defines a specific action that should be taken, replaced V1Handler temporarily.
  * @author mowu.wd
- * @date 2024-07-02 19:55
- * @desc
  */
 public class ProbeHandler {
 
